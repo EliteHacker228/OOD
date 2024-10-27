@@ -1,0 +1,6 @@
+.idea
+.venv
+YOLO/dataset/*
+YOLO/test/runs
+YOLO/test/testdata/*
+YOLO/train/runs
