@@ -1,8 +1,8 @@
 .idea
 .venv
-YOLO/dataset
+YOLO/dataset/*
 !YOLO/dataset/.gitkeep
 YOLO/test/runs
-YOLO/test/testdata
+YOLO/test/testdata/*
 !YOLO/test/testdata/.gitkeep
 YOLO/train/runs
